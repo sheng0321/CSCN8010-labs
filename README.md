@@ -1,2 +1,2 @@
 # CSCN8010-labs
-solutions to CSCN8010
+hello, these are solutions to CSCN8010
